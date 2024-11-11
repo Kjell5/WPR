@@ -1,0 +1,6 @@
+@WPR_HostAddress = http://localhost:5221
+
+GET {{WPR_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
